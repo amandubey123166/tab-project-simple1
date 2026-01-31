@@ -1,7 +1,18 @@
-# tab-project-simple1
+# Tab Project (Simple)
 
-# Tabs Project
+This is a simple Tabs component project created using HTML, CSS, and JavaScript.
+The project demonstrates basic DOM manipulation and event handling.
 
-This is a simple tabs component project using HTML, CSS & JavaScript.
-
+## 🔗 Live Project
 https://tab-simple.netlify.app/
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## ✨ Features
+- Four tabs layout
+- Active tab highlighting
+- Show/hide content on click
+- Simple and clean UI
