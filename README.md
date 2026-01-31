@@ -3,8 +3,11 @@
 This is a simple Tabs component project created using HTML, CSS, and JavaScript.
 The project demonstrates basic DOM manipulation and event handling.
 
-## 🔗 Live Project
+
+
+Live Project URL:
 https://tab-simple.netlify.app/
+
 
 ## 🛠️ Technologies Used
 - HTML
